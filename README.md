@@ -1,9 +1,6 @@
 # jellydog-plush-store
 JellyDog萌物铺玩偶售卖网站-团队实践项目
 
-# jellydog-plush-store
-JellyDog萌物铺玩偶售卖网站-团队实践项目
-
 > 小组 4 人协作开发的电商静态网页项目，基于 HTML + CSS + JavaScript 原生实现，无框架，使用 localStorage 完成本地数据持久化，模拟完整萌物周边购物网站业务流程。
 
 ### 项目简介
