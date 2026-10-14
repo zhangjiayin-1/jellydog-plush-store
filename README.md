@@ -1,2 +1,2 @@
-# stray-animal-adoption-rescue
-逸守流浪动物领养与救助小程序-毕业设计
+# jellydog-plush-store
+JellyDog萌物铺玩偶售卖网站-团队实践项目
